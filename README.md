@@ -1,23 +1,48 @@
 # Contact-App-Python-
 
-Contact app
+📇 Contact Management App 🛠️
 
-You have learnt a lot of new things; data structures, string, regex & files. Lets use all our newly acquired knowledge to build a contact app, just like the ones in our smartphone.
+📌 Overview
 
-We will not be building a fancy UI, instead we will focus on understanding the programming logic.
+This project is a simple yet powerful Contact Management Application built in Python. It allows users to store, search, update, and delete contacts with proper data validation (Name, Email, Phone, DOB). The app is designed to demonstrate data persistence, validation, and CRUD operations in an interactive way.
 
-Lets get started!
 
-Think of all the features that your contact app has . . . !
+🛠 Tech Stack
 
-It can show you all the contact names
-You can search for contacts (using name)
-You can see all the information associated with the contact
-You can delete and update contacts
-Can you think of anything more ? Our contact app should have at least these features.
 
-The app should show us all the contact names
-It should allow us to select a contact and view all the information associated with the contact
-It should allow us to update contact info & delete contact
-Finally, it should show us all the contact names
-For every contact, we will store the name, number & email.
+- 🐍 Python – Core language
+
+
+- 🐼 Pandas – Data handling & storage
+
+
+- 🔍 Regex – Input validation (email, phone, etc.)
+
+
+- 💾 CSV/Excel – Persistent storage
+
+
+- 📓 Jupyter Notebook – Interactive development
+
+
+  📂 Features
+
+
+- ➕ Add Contacts (with validation)
+
+
+-  📖 View All Contacts in tabular format
+
+
+- 🔍 Search Contacts by name or phone
+
+
+- ✏️ Update Contact Details
+
+
+- ❌ Delete Contacts
+
+
+- 💾 Persistent Storage (CSV/Excel)
+
+  
